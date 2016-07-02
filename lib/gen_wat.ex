@@ -27,8 +27,8 @@ defmodule GenWat do
       :ok
       iex> GenWat.add(pid, 20)
       :ok
-      iex> GenWat.cast(pid)
-      20
+      iex> GenWat.state(pid)
+      30
   """
   def add(pid, num \\ 0), do: GenServer.cast(pid, {:add, num})
 
