@@ -1,6 +1,6 @@
 # GenWat
 
-Heh, just playing around GenServer.
+Generic Wat
 
 ## Installation
 
