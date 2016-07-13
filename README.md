@@ -1,6 +1,6 @@
-# GenWat
+# Generic Wat
 
-Generic Wat
+Implements basic-redux store logic, elixir-ish. More like a playground.
 
 ## Installation
 
