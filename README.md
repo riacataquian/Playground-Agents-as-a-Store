@@ -1,4 +1,4 @@
-# Agents as a Storo
+# Agents as a Store
 
 Playgroud implementing basic-redux store logic, elixir-ish.
 
