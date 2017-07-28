@@ -1,6 +1,6 @@
-# Generic Wat
+# Agents as a Storo
 
-Implements basic-redux store logic, elixir-ish. More like a playground.
+Playgroud implementing basic-redux store logic, elixir-ish.
 
 ## Installation
 
